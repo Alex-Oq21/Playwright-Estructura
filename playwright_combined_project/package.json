@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "allure-playwright": "^3.3.2"
   }
 }
